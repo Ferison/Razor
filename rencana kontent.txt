@@ -2,9 +2,11 @@ Rencana Kontent WPU
 - Javascript
   * ES6
   * Framework Javascript
-    # Angular
+    # View
     # React
+- Struktur data dasar
 - PHP Framework
-  * Laravel
+  # Laravel
 - Interview
 - Vlog
+- Python
